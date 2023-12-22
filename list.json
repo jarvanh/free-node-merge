@@ -13,42 +13,42 @@
     "site": "https://github.com/pojiezhiyuanjun/freev2",
     "url": "https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/1222.txt",
     "update": "m-d",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 2,
     "remark": "freefq/free",
     "site": "https://github.com/freefq/free",
     "url": "https://raw.githubusercontent.com/freefq/free/master/v2",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 3,
     "remark": "colatiger/v2ray-nodes",
     "site": "https://github.com/colatiger/v2ray-nodes",
     "url": "https://proxy.huwo.club/v2ray.txt",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 4,
     "remark": "learnhard-cn/free_proxy_ss",
     "site": "https://github.com/learnhard-cn/free_proxy_ss",
     "url": "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 5,
     "remark": "kxswa/k",
     "site": "https://github.com/kxswa/k",
     "url": "https://raw.githubusercontent.com/kxswa/k/k/base64",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 6,
     "remark": "Pawdroid/Free-servers",
     "site": "https://github.com/Pawdroid/Free-servers",
     "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 7,
@@ -69,7 +69,7 @@
     "remark": "Jsnzkpg/Jsnzkpg",
     "site": "https://github.com/Jsnzkpg/Jsnzkpg",
     "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 10,
@@ -83,6 +83,6 @@
     "remark": "aiboboxx/v2rayfree",
     "site": "https://github.com/aiboboxx/v2rayfree",
     "url": "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
-    "enabled": true
+    "enabled": false
   }
 ]
