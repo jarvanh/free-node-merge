@@ -15,7 +15,7 @@ proxies:
 - {name: 🇺🇸US-45.58.39.13-13, server: 45.58.39.13, port: 58428, type: ss, cipher: aes-256-gcm, password: 31LdYhP8Ae}
 - {name: 🇩🇪DE-78.47.217.216-14, server: www.casperco.online, port: 993, type: trojan, password: 74811f39-8f69-4334-9e0f-a8a25d7413c1, sni: www.casperco.online, skip-cert-verify: true}
 - {name: 🇮🇸IS-89.221.224.93-15, server: 89.221.224.93, port: 80, type: trojan, password: 9e77b491-73d4-4ea3-985b-cfe3ae583580, sni: is1-t.sshmax.xyz, skip-cert-verify: true}
-- {name: 🏁RELAY-172.67.75.194-16, server: singapore.com, port: 80, type: vmess, uuid: b1e30339-a603-47d1-b31c-1d0ceb59952e, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /api/v3/download.getFile, tls: false, ws-headers: {Host: ssrsub.v03.ssrsub.com}}
+- {name: 🏁RELAY-104.26.13.140-16, server: singapore.com, port: 80, type: vmess, uuid: b1e30339-a603-47d1-b31c-1d0ceb59952e, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /api/v3/download.getFile, tls: false, ws-headers: {Host: ssrsub.v03.ssrsub.com}}
 - {name: 🇺🇸US-172.233.188.217-17, server: 172.233.188.217, port: 55579, type: vmess, uuid: 610f7b76-a4e2-4b5a-c458-96e69cbffb5e, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 172.233.188.217}}
 - {name: 🇺🇸US-38.75.136.49-18, server: 38.75.136.49, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
 - {name: 🇫🇷FR-141.95.106.33-19, server: 141.95.106.33, port: 1080, type: ss, cipher: aes-128-gcm, password: KAffy7oieVJYGKFjHvUE3g}
@@ -24,7 +24,7 @@ proxies:
 - {name: 🇩🇪DE-78.47.217.216-22, server: www.casperco.online, port: 1935, type: trojan, password: 74811f39-8f69-4334-9e0f-a8a25d7413c1, skip-cert-verify: true}
 - {name: 🇱🇹LT-94.131.14.177-23, server: 94.131.14.177, port: 80, type: vmess, uuid: 2c5fee13-f08b-4ba8-86db-27dd51cb9781, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /vmess, tls: false, ws-headers: {Host: 94.131.14.177}}
 - {name: 🇱🇹LT-94.131.14.177-24, server: 94.131.14.177, port: 2086, type: vmess, uuid: 2c5fee13-f08b-4ba8-86db-27dd51cb9781, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /vmess, tls: false, ws-headers: {Host: 94.131.14.177}}
-- {name: 🇺🇸US-150.136.208.138-25, server: usasb2.ip8.shop, port: 26460, type: vmess, uuid: c15bccff-fa39-4252-f789-4f997542e0b4, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: usasb2.ip8.shop}}
+- {name: 🇺🇸US-129.213.84.78-25, server: usasb2.ip8.shop, port: 26460, type: vmess, uuid: c15bccff-fa39-4252-f789-4f997542e0b4, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: usasb2.ip8.shop}}
 - {name: 🇯🇵JP-54.168.244.142-26, server: 54.168.244.142, port: 3306, type: trojan, password: d07a02a06191c99f, sni: n2.gladns.com, ws-path: "h=%2Fgateway%2Fconnect", skip-cert-verify: true}
 - {name: 🇩🇪DE-217.160.45.31-27, server: 217.160.45.31, port: 8880, type: vmess, uuid: 4e186678-fcca-4325-e4bc-b2916bdf6708, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 217.160.45.31}}
 - {name: 🇨🇳CN-116.163.29.181-28, server: us1.awslcn.info, port: 25239, type: vmess, uuid: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: us1.awslcn.info}}
