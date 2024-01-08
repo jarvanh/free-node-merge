@@ -1,5 +1,5 @@
 proxies:
-- {name: 🏁RELAY-172.67.136.23-00, server: a3.bcbot.in, port: 8880, type: vmess, uuid: ce9aadc8-8c6e-4867-d247-9a84b469ac27, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: a3.bcbot.in}}
+- {name: 🏁RELAY-104.21.32.215-00, server: a3.bcbot.in, port: 8880, type: vmess, uuid: ce9aadc8-8c6e-4867-d247-9a84b469ac27, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: a3.bcbot.in}}
 - {name: 🇩🇪DE-217.160.45.31-01, server: 217.160.45.31, port: 8880, type: vmess, uuid: 4e186678-fcca-4325-e4bc-b2916bdf6708, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 217.160.45.31}}
 - {name: 🇦🇷AR-190.103.176.29-02, server: 190.103.176.29, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
 - {name: 🏁RELAY-104.17.110.63-03, server: 104.17.110.63, port: 80, type: vmess, uuid: f9ab87c5-c542-4c10-a486-b59c91550787, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/?ed=2048", tls: false, ws-headers: {Host: PARspacK51.eSMAIlkOrEA.sHoP}}
