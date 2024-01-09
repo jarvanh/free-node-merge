@@ -9,7 +9,7 @@ proxies:
 - {name: 🇫🇷FR-195.154.169.198-07, server: 195.154.169.198, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
 - {name: 🇪🇸ES-38.180.33.136-08, server: 38.180.33.136, port: 50104, type: vmess, uuid: 790f6802-7535-4109-de6d-15f676d5e3f7, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 38.180.33.136}}
 - {name: 🇺🇸US-66.241.124.229-09, server: cold-dawn-9246.fly.dev, port: 443, type: vmess, uuid: ea4909ef-7ca6-4b46-bf2e-6c07896ef338, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /ea4909ef-7ca6-4b46-bf2e-6c07896ef338-vm, tls: true, ws-headers: {Host: cold-dawn-9246.fly.dev}}
-- {name: 🏁RELAY-104.18.8.215-10, server: www.visa.com.tw, port: 8880, type: vmess, uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: mgthree_cdn.yunjisuan.cf}}
+- {name: 🏁RELAY-104.18.9.215-10, server: www.visa.com.tw, port: 8880, type: vmess, uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: mgthree_cdn.yunjisuan.cf}}
 - {name: 🇵🇦PA-138.186.142.4-11, server: 138.186.142.4, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
 - {name: 🇳🇱NL-91.242.229.69-12, server: 91.242.229.69, port: 2086, type: vmess, uuid: 88c216b8-56c6-4f34-bcfd-e198ce11f7d6, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 91.242.229.69}}
 - {name: 🇺🇸US-54.188.25.27-13, server: 54.188.25.27, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
