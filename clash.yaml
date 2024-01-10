@@ -6,7 +6,7 @@ proxies:
 - {name: 🇺🇸US-212.102.47.198-04, server: 212.102.47.198, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks}
 - {name: 🇬🇧GB-5.181.27.97-05, server: 5.181.27.97, port: 15100, type: ss, cipher: aes-256-gcm, password: GeZbX4Enoc}
 - {name: 🇩🇪DE-5.104.108.120-06, server: 5.104.108.120, port: 443, type: trojan, password: 56e1f11c-1217-46ab-b127-6afbc23bafba, sni: 20-24-33-134.nhost.00cdn.com, skip-cert-verify: true}
-- {name: 🏁RELAY-104.21.32.215-07, server: a3.bcbot.in, port: 8880, type: vmess, uuid: ce9aadc8-8c6e-4867-d247-9a84b469ac27, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: a3.bcbot.in}}
+- {name: 🏁RELAY-172.67.136.23-07, server: a3.bcbot.in, port: 8880, type: vmess, uuid: ce9aadc8-8c6e-4867-d247-9a84b469ac27, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: a3.bcbot.in}}
 - {name: 🏁RELAY-104.17.2.183-08, server: 104.17.2.183, port: 80, type: vmess, uuid: f256a3ae-0f85-4a1d-d0cd-2d0b4b73f4f1, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: v3ra3do.wakeuptimerap.shop}}
 - {name: 🏁RELAY-167.68.5.183-09, server: 167.68.5.183, port: 443, type: trojan, password: 56e1f11c-1217-46ab-b127-6afbc23bafba, sni: 6us3.pqjc.buzz, ws-path: "h=%2Fpq%2Fus3", skip-cert-verify: true}
 - {name: 🇷🇴RO-194.14.217.115-10, server: 194.14.217.115, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
