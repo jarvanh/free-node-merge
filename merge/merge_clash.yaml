@@ -1,7 +1,7 @@
 proxies:
 - {name: 🏁RELAY-104.17.2.183-00, server: glasco.fx-trader.shop, port: 80, type: vmess, uuid: f256a3ae-0f85-4a1d-d0cd-2d0b4b73f4f1, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: v3ra3do.wakeuptimerap.shop}}
 - {name: 🇪🇸ES-92.38.171.89-01, server: 92.38.171.89, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 🏁RELAY-172.67.134.127-02, server: cdn-16.cdn2cdn.com, port: 2083, type: trojan, password: gviRoLVUKA5kBX2M0gJSvg, sni: cdn16.cdn2cdn.com, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🏁RELAY-104.21.25.193-02, server: cdn-16.cdn2cdn.com, port: 2083, type: trojan, password: gviRoLVUKA5kBX2M0gJSvg, sni: cdn16.cdn2cdn.com, ws-path: "h=%2F", skip-cert-verify: true}
 - {name: 🇺🇸US-212.102.47.198-03, server: 212.102.47.198, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks}
 - {name: 🇰🇿KZ-45.159.250.78-04, server: kz-v2ray.ipracevpn.com, port: 8443, type: vmess, uuid: 48b10b02-2c60-4323-bc65-a11b15144745, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: true, ws-headers: {Host: kz-v2ray.ipracevpn.com}}
 - {name: 🏁RELAY-104.21.79.143-05, server: 104.21.79.143, port: 80, type: vmess, uuid: 8b745f74-c322-48c0-b27c-cb6a1d871e86, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "ae8e857abf1d?ed=2048", tls: false, ws-headers: {Host: periodically-microwave-firms-abc.trycloudflare.com}}
