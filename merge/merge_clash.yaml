@@ -8,7 +8,7 @@ proxies:
 - {name: 🏁RELAY-192.65.217.200-06, server: 192.65.217.200, port: 443, type: trojan, password: b59ee60f-9fa4-4770-b6a7-288620147f60, sni: k6us1.yfjc.sbs, ws-path: "h=%2Fyfjc%2Fkus1", skip-cert-verify: true}
 - {name: 🇺🇸US-54.213.46.0-07, server: 54.213.46.0, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true}
 - {name: 🇺🇸US-156.251.226.106-08, server: 156.251.226.106, port: 1111, type: vmess, uuid: 64424354-f4ff-42a0-8884-8f52f2bb7235, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/changding-tls0?ed=2048", tls: false, ws-headers: {Host: hk-300.changding.tech}}
-- {name: 🏁RELAY-104.21.25.193-09, server: cdn-16.cdn2cdn.com, port: 2083, type: trojan, password: gviRoLVUKA5kBX2M0gJSvg, sni: cdn16.cdn2cdn.com, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🏁RELAY-172.67.134.127-09, server: cdn-16.cdn2cdn.com, port: 2083, type: trojan, password: gviRoLVUKA5kBX2M0gJSvg, sni: cdn16.cdn2cdn.com, ws-path: "h=%2F", skip-cert-verify: true}
 - {name: 🏁RELAY-104.21.69.44-10, server: 104.21.69.44, port: 443, type: trojan, password: Nu5EqwcJ2OCuvKAcSQeGdg, sni: cdn-22.gsmxreality.com, skip-cert-verify: true}
 - {name: 🇵🇸PS-82.213.5.50-11, server: 82.213.5.50, port: 80, type: vmess, uuid: f21bcdb6-5dc6-4c4b-9a34-3b185f6747c4, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/@forwardv2ray", tls: false, ws-headers: {Host: tabyan205.serveftp.com}}
 - {name: 🇺🇸US-158.101.7.8-12, server: 158.101.7.8, port: 80, type: vmess, uuid: 95b45c49-f5c0-4959-bb64-2b8fbc4a869c, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 158.101.7.8}}
