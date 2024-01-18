@@ -2,14 +2,14 @@ proxies:
 - {name: 🇺🇦UA-185.158.211.186-00, server: 185.158.211.186, port: 80, type: vmess, uuid: b82493e3-07b4-4cf2-b585-965575cfeb32, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/@forwardv2ray", tls: false, ws-headers: {Host: softiri.serveirc.com}}
 - {name: 🇬🇧GB-172.99.190.109-01, server: 172.99.190.109, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: linkvws, tls: true, ws-headers: {Host: 172.99.190.109}}
 - {name: 🇬🇧GB-77.72.5.113-02, server: 77.72.5.113, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 🇨🇳CN-183.236.51.7-03, server: xibaozi.19890604.day, port: 10837, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
-- {name: 🇨🇳CN-183.236.51.6-04, server: xibaozi.19890604.day, port: 10846, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
+- {name: 🇨🇳CN-183.236.51.6-03, server: xibaozi.19890604.day, port: 10837, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
+- {name: 🇨🇳CN-183.236.51.7-04, server: xibaozi.19890604.day, port: 10846, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
 - {name: 🇫🇷FR-195.154.169.198-05, server: 195.154.169.198, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 🇨🇳CN-183.236.51.6-06, server: xibaozi.19890604.day, port: 10838, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
+- {name: 🇨🇳CN-183.236.51.7-06, server: xibaozi.19890604.day, port: 10838, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
 - {name: 🇷🇴RO-194.14.217.115-07, server: 194.14.217.115, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
 - {name: 🇺🇸US-54.185.37.169-08, server: 54.185.37.169, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
 - {name: 🇺🇸US-74.121.191.98-09, server: 74.121.191.98, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 🇨🇳CN-183.236.51.7-10, server: xibaozi.19890604.day, port: 10845, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
+- {name: 🇨🇳CN-183.236.51.6-10, server: xibaozi.19890604.day, port: 10845, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
 - {name: 🇨🇳CN-183.236.51.6-11, server: xibaozi.19890604.day, port: 10850, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
-- {name: 🇨🇳CN-183.236.51.6-12, server: xibaozi.19890604.day, port: 10848, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
+- {name: 🇨🇳CN-183.236.51.7-12, server: xibaozi.19890604.day, port: 10848, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
 - {name: 🇨🇳CN-183.236.51.7-13, server: xibaozi.19890604.day, port: 10847, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
