@@ -1,20 +1,15 @@
 proxies:
-- {name: 🇭🇰HK-199.15.76.35-00, server: 199.15.76.35, port: 443, type: vmess, uuid: 64424354-f4ff-42a0-8884-8f52f2bb7235, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/changding-tls1?ed=2048", tls: true, ws-headers: {Host: hk-300.changding.tech}}
-- {name: 🇧🇦BA-185.164.35.9-01, server: 185.164.35.9, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 🏁RELAY-192.65.217.247-02, server: 192.65.217.247, port: 443, type: trojan, password: b59ee60f-9fa4-4770-b6a7-288620147f60, sni: k5us2.yfjc.sbs, ws-path: "h=%2Fyfjc%2Fkus2", skip-cert-verify: true}
-- {name: 🏁RELAY-104.17.2.183-03, server: glasco.fx-trader.shop, port: 80, type: vmess, uuid: f256a3ae-0f85-4a1d-d0cd-2d0b4b73f4f1, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: v3ra3do.wakeuptimerap.shop}}
-- {name: 🇵🇦PA-138.186.142.4-04, server: 138.186.142.4, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 🇫🇷FR-195.154.185.174-05, server: 195.154.185.174, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 🏁RELAY-192.65.217.200-06, server: 192.65.217.200, port: 443, type: trojan, password: b59ee60f-9fa4-4770-b6a7-288620147f60, sni: k6us1.yfjc.sbs, ws-path: "h=%2Fyfjc%2Fkus1", skip-cert-verify: true}
-- {name: 🇺🇸US-54.213.46.0-07, server: 54.213.46.0, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true}
-- {name: 🇺🇸US-156.251.226.106-08, server: 156.251.226.106, port: 1111, type: vmess, uuid: 64424354-f4ff-42a0-8884-8f52f2bb7235, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/changding-tls0?ed=2048", tls: false, ws-headers: {Host: hk-300.changding.tech}}
-- {name: 🏁RELAY-104.21.25.193-09, server: cdn-16.cdn2cdn.com, port: 2083, type: trojan, password: gviRoLVUKA5kBX2M0gJSvg, sni: cdn16.cdn2cdn.com, ws-path: "h=%2F", skip-cert-verify: true}
-- {name: 🏁RELAY-104.21.69.44-10, server: 104.21.69.44, port: 443, type: trojan, password: Nu5EqwcJ2OCuvKAcSQeGdg, sni: cdn-22.gsmxreality.com, skip-cert-verify: true}
-- {name: 🇵🇸PS-82.213.5.50-11, server: 82.213.5.50, port: 80, type: vmess, uuid: f21bcdb6-5dc6-4c4b-9a34-3b185f6747c4, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/@forwardv2ray", tls: false, ws-headers: {Host: tabyan205.serveftp.com}}
-- {name: 🇺🇸US-158.101.7.8-12, server: 158.101.7.8, port: 80, type: vmess, uuid: 95b45c49-f5c0-4959-bb64-2b8fbc4a869c, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 158.101.7.8}}
-- {name: 🇺🇸US-38.54.108.110-13, server: 38.54.108.110, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-- {name: 🏁RELAY-172.67.204.84-14, server: 172.67.204.84, port: 443, type: trojan, password: Nu5EqwcJ2OCuvKAcSQeGdg, sni: cdn-22.gsmxreality.com, skip-cert-verify: true}
-- {name: 🇺🇸US-212.102.47.198-15, server: 212.102.47.198, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks}
-- {name: 🇱🇺LU-202.78.162.6-16, server: 202.78.162.6, port: 80, type: vmess, uuid: 66fef53b-1b57-466d-89a4-bd99b90f6473, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/@forwardv2ray", tls: false, ws-headers: {Host: irisoft.servecounterstrike.com}}
-- {name: 🇫🇷FR-51.159.111.208-17, server: 51.159.111.208, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 🇺🇸US-38.91.101.42-18, server: 38.91.101.42, port: 5498, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
+- {name: 🇺🇦UA-185.158.211.186-00, server: 185.158.211.186, port: 80, type: vmess, uuid: b82493e3-07b4-4cf2-b585-965575cfeb32, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/@forwardv2ray", tls: false, ws-headers: {Host: softiri.serveirc.com}}
+- {name: 🇬🇧GB-172.99.190.109-01, server: 172.99.190.109, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: linkvws, tls: true, ws-headers: {Host: 172.99.190.109}}
+- {name: 🇬🇧GB-77.72.5.113-02, server: 77.72.5.113, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+- {name: 🇨🇳CN-183.236.51.7-03, server: xibaozi.19890604.day, port: 10837, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
+- {name: 🇨🇳CN-183.236.51.7-04, server: xibaozi.19890604.day, port: 10846, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
+- {name: 🇫🇷FR-195.154.169.198-05, server: 195.154.169.198, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+- {name: 🇨🇳CN-183.236.51.6-06, server: xibaozi.19890604.day, port: 10838, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
+- {name: 🇷🇴RO-194.14.217.115-07, server: 194.14.217.115, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+- {name: 🇺🇸US-54.185.37.169-08, server: 54.185.37.169, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇺🇸US-74.121.191.98-09, server: 74.121.191.98, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+- {name: 🇨🇳CN-183.236.51.6-10, server: xibaozi.19890604.day, port: 10845, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
+- {name: 🇨🇳CN-183.236.51.7-11, server: xibaozi.19890604.day, port: 10850, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
+- {name: 🇨🇳CN-183.236.51.7-12, server: xibaozi.19890604.day, port: 10848, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
+- {name: 🇨🇳CN-183.236.51.7-13, server: xibaozi.19890604.day, port: 10847, type: trojan, password: 66c899df-785c-4290-9c10-74a62b3ddd2b, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
