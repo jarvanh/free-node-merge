@@ -1,7 +1,7 @@
 proxies:
 - {name: 🏁RELAY-104.18.15.148-00, server: 104.18.15.148, port: 80, type: vmess, uuid: 9b170ad4-3211-4f0f-8bc9-80d356b67662, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: er3.889611.com}}
 - {name: 🇨🇳CN-120.241.46.111-01, server: cn.pathx.me, port: 30037, type: ss, cipher: chacha20-ietf-poly1305, password: 1ccf201b-c3f9-472c-b0d8-fa90f93a1c10}
-- {name: 🏁RELAY-172.67.130.140-02, server: s1c.v2.v001sss.xyz, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: s1c.v2.v001sss.xyz}}
+- {name: 🏁RELAY-104.21.8.157-02, server: s1c.v2.v001sss.xyz, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: s1c.v2.v001sss.xyz}}
 - {name: 🇷🇺RU-92.223.109.205-03, server: 92.223.109.205, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: NE1maM9InLOKgK3dRPcuy6llYUKjZxhs3RGOWSqNRddj9Yn2}
 - {name: 🏁RELAY-104.18.15.149-04, server: 104.18.15.149, port: 80, type: vmess, uuid: 9b170ad4-3211-4f0f-8bc9-80d356b67662, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: tr3.889611.com}}
 - {name: 🏁RELAY-162.159.200.5-05, server: 162.159.200.5, port: 80, type: vmess, uuid: 9b170ad4-3211-4f0f-8bc9-80d356b67662, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: ca3.889611.com}}
@@ -10,8 +10,8 @@ proxies:
 - {name: 🏁RELAY-162.159.200.6-08, server: 162.159.200.6, port: 80, type: vmess, uuid: 9b170ad4-3211-4f0f-8bc9-80d356b67662, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: er3.889611.com}}
 - {name: 🏁RELAY-162.159.200.4-09, server: 162.159.200.4, port: 80, type: vmess, uuid: 9b170ad4-3211-4f0f-8bc9-80d356b67662, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: ca3.889611.com}}
 - {name: 🇷🇺RU-45.144.2.113-10, server: 45.144.2.113, port: 80, type: vmess, uuid: 9b170ad4-3211-4f0f-8bc9-80d356b67662, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: www.apple.com}}
-- {name: 🇨🇳CN-183.236.51.7-11, server: xibaozi.19890604.day, port: 10847, type: trojan, password: da3f89e3-5676-4ca9-8f06-d51cb1ffbe96, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
-- {name: 🇨🇳CN-183.236.51.6-12, server: xibaozi.19890604.day, port: 10848, type: trojan, password: da3f89e3-5676-4ca9-8f06-d51cb1ffbe96, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
+- {name: 🇨🇳CN-183.236.51.6-11, server: xibaozi.19890604.day, port: 10847, type: trojan, password: da3f89e3-5676-4ca9-8f06-d51cb1ffbe96, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
+- {name: 🇨🇳CN-183.236.51.7-12, server: xibaozi.19890604.day, port: 10848, type: trojan, password: da3f89e3-5676-4ca9-8f06-d51cb1ffbe96, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
 - {name: 🇮🇷IR-185.94.99.205-13, server: 185.94.99.205, port: 60302, type: trojan, password: 3933e566-6e2d-460f-9363-48e2fa9ca103, sni: https, skip-cert-verify: true}
 - {name: 🇺🇦UA-185.158.211.186-14, server: 185.158.211.186, port: 80, type: vmess, uuid: 66fef53b-1b57-466d-89a4-bd99b90f6473, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/@forwardv2ray", tls: false, ws-headers: {Host: irisoft.servecounterstrike.com}}
 - {name: 🏁RELAY-162.159.200.7-15, server: 162.159.200.7, port: 80, type: vmess, uuid: 9b170ad4-3211-4f0f-8bc9-80d356b67662, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: er3.visaapp.top}}
