@@ -6,7 +6,7 @@ proxies:
 - {name: 🏁RELAY-104.18.15.148-04, server: 104.18.15.148, port: 80, type: vmess, uuid: 4899b015-5823-486d-bfe6-06c3239260f5, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: er3.889611.com}}
 - {name: 🏁RELAY-172.67.217.144-05, server: 172.67.217.144, port: 80, type: vmess, uuid: 85674552-ce41-44d9-bb2a-50f76450b3d8, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: lv1.xv2ray.net}}
 - {name: 🏁RELAY-104.18.15.149-06, server: 104.18.15.149, port: 80, type: vmess, uuid: 4899b015-5823-486d-bfe6-06c3239260f5, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: er3.889611.com}}
-- {name: 🇨🇳CN-183.233.187.230-07, server: service.ouluyun9803.com, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123}
+- {name: 🇨🇳CN-183.233.187.235-07, server: service.ouluyun9803.com, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123}
 - {name: 🇮🇶IQ-130.193.166.2-08, server: 130.193.166.2, port: 443, type: vmess, uuid: 7682b778-b64b-408b-8fb2-61d7c7fc43e5, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/@forwardv2ray", tls: true, ws-headers: {Host: soft8989.redirectme.net}}
 - {name: 🇺🇸US-54.201.23.39-09, server: 54.201.23.39, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
 - {name: 🏁RELAY-104.31.16.104-10, server: 104.31.16.104, port: 8080, type: vmess, uuid: 3a6752b4-8353-4172-85b1-32202116714d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: asan3.azad1.tech}}
