@@ -7,5 +7,5 @@ proxies:
 - {name: 🇺🇸US-23.157.40.20-05, server: 23.157.40.20, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
 - {name: 🇺🇸US-23.157.40.66-06, server: 23.157.40.66, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
 - {name: 🏁RELAY-104.19.250.15-07, server: 104.19.250.15, port: 2052, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: helanv6cf.inekokkk.top}}
-- {name: 🏁RELAY-104.17.229.133-08, server: cfcdn1.sanfencdn9.com, port: 2052, type: vmess, uuid: 8c7b39d2-eb80-48d4-9471-76bddc5273c8, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /video/GQ2qE5Us9g, tls: false, ws-headers: {Host: tw1bQiWSE4x.fzbqfrse.xyz}}
+- {name: 🏁RELAY-104.18.131.224-08, server: cfcdn1.sanfencdn9.com, port: 2052, type: vmess, uuid: 8c7b39d2-eb80-48d4-9471-76bddc5273c8, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /video/GQ2qE5Us9g, tls: false, ws-headers: {Host: tw1bQiWSE4x.fzbqfrse.xyz}}
 - {name: 🇰🇿KZ-45.82.31.164-09, server: 45.82.31.164, port: 3389, type: vmess, uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7, alterId: 0, cipher: auto, skip-cert-verify: true, network: http, ws-path: /, tls: false, ws-headers: {Host: 45.82.31.164}}
