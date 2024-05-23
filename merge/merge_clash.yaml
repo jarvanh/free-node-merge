@@ -11,7 +11,7 @@ proxies:
 - {name: 🇺🇸US-23.157.40.29-09, server: 23.157.40.29, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
 - {name: 🇨🇦CA-158.51.121.36-10, server: 158.51.121.36, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /linkvws, tls: true, ws-headers: {Host: 158.51.121.36}}
 - {name: 🇨🇳CN-120.233.42.83-11, server: data-us-v1.shwjfkw.cn, port: 20401, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /debian, tls: false, ws-headers: {Host: data-us-v1.shwjfkw.cn}}
-- {name: 🏁RELAY-104.16.11.146-12, server: cfcdn1.sanfencdn9.com, port: 2082, type: vmess, uuid: 1ed3f9fd-7adb-4971-b8c0-3d4916290982, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /video/CuTy87zAzV/, tls: false, ws-headers: {Host: us4Bb5oSgJA.fzbqfrse.xyz}}
+- {name: 🏁RELAY-162.159.10.229-12, server: cfcdn1.sanfencdn9.com, port: 2082, type: vmess, uuid: 1ed3f9fd-7adb-4971-b8c0-3d4916290982, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /video/CuTy87zAzV/, tls: false, ws-headers: {Host: us4Bb5oSgJA.fzbqfrse.xyz}}
 - {name: 🇺🇸US-23.157.40.20-13, server: 23.157.40.20, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
 - {name: 🇸🇬SG-8.222.174.108-14, server: 8.222.174.108, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: s1c.v2.v001sss.xyz}}
 - {name: 🇵🇱PL-51.77.53.200-15, server: 51.77.53.200, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
@@ -19,7 +19,7 @@ proxies:
 - {name: 🇺🇸US-169.197.142.120-17, server: 169.197.142.120, port: 5498, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
 - {name: 🇺🇸US-142.171.219.14-18, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 333b4368-8162-3997-bc38-db1d667cc921, sni: lavip101.qlgq.fun, skip-cert-verify: true}
 - {name: 🇺🇸US-38.114.114.207-19, server: 38.114.114.207, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-- {name: 🏁RELAY-104.26.4.57-20, server: russia.com, port: 8880, type: vmess, uuid: 64a57b5f-45e0-40c3-8316-97d0ff53fd96, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /api/v3/download.getFile, tls: false, ws-headers: {Host: sssub.v2.001.ssrsub.com}}
+- {name: 🏁RELAY-104.26.5.57-20, server: russia.com, port: 8880, type: vmess, uuid: 64a57b5f-45e0-40c3-8316-97d0ff53fd96, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /api/v3/download.getFile, tls: false, ws-headers: {Host: sssub.v2.001.ssrsub.com}}
 - {name: 🏁RELAY-104.21.69.44-21, server: 104.21.69.44, port: 443, type: trojan, password: qj1Dz1CJmFQRhWr1SP80aA, sni: cdn-21.gsmxreality.com, skip-cert-verify: true}
 - {name: 🇺🇸US-23.157.40.20-22, server: 23.157.40.20, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
 - {name: 🇺🇸US-23.157.40.29-23, server: 23.157.40.29, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
@@ -46,4 +46,4 @@ proxies:
 - {name: 🇺🇸US-23.157.40.20-44, server: 23.157.40.20, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
 - {name: 🇺🇸US-38.114.114.207-45, server: 38.114.114.207, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
 - {name: 🇵🇱PL-51.77.53.200-46, server: 51.77.53.200, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-- {name: 🏁RELAY-172.67.159.211-47, server: cdncdncdncdn.784654.xyz, port: 2052, type: vmess, uuid: 4b5867b5-a9c4-4afa-8d73-2c4330745f3e, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/index?ed=20", tls: false, ws-headers: {Host: ca-cfcdn.aikunapp.com}}
+- {name: 🏁RELAY-172.67.159.36-47, server: cdncdncdncdn.784654.xyz, port: 2052, type: vmess, uuid: 4b5867b5-a9c4-4afa-8d73-2c4330745f3e, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/index?ed=20", tls: false, ws-headers: {Host: ca-cfcdn.aikunapp.com}}
