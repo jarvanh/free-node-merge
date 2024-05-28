@@ -2,14 +2,14 @@ proxies:
 - {name: 🇺🇸US-52.88.161.5-00, server: 52.88.161.5, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
 - {name: 🇵🇱PL-51.77.53.200-01, server: 51.77.53.200, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
 - {name: 🇵🇱PL-51.77.53.200-02, server: 51.77.53.200, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
-- {name: 🇩🇪DE-130.61.237.76-03, server: de-frankfurt-oracle-b26cf5.ip1.shop, port: 45102, type: vmess, uuid: 501dbdc1-15df-479f-a2b8-7a58e42724f7, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /de1, tls: false, ws-headers: {Host: oracle-de-01.t3csyun.buzz}}
-- {name: 🏁RELAY-104.18.83.50-04, server: hk.wish.ml, port: 2052, type: vmess, uuid: c286daa2-59de-455c-8de8-ec032b6ce2e8, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: in4.wish.ml}}
+- {name: 🇩🇪DE-130.61.232.87-03, server: de-frankfurt-oracle-b26cf5.ip1.shop, port: 45102, type: vmess, uuid: 501dbdc1-15df-479f-a2b8-7a58e42724f7, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /de1, tls: false, ws-headers: {Host: oracle-de-01.t3csyun.buzz}}
+- {name: 🏁RELAY-162.159.152.46-04, server: hk.wish.ml, port: 2052, type: vmess, uuid: c286daa2-59de-455c-8de8-ec032b6ce2e8, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: in4.wish.ml}}
 - {name: 🇺🇸US-137.184.178.57-05, server: us-sanfrancisco-01.t3csyun.buzz, port: 34052, type: vmess, uuid: 501dbdc1-15df-479f-a2b8-7a58e42724f7, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /us1, tls: false, ws-headers: {Host: us-sanfrancisco-01.t3csyun.buzz}}
 - {name: 🇵🇱PL-51.77.53.200-06, server: 51.77.53.200, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
 - {name: 🇵🇱PL-51.77.53.200-07, server: 51.77.53.200, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
 - {name: 🇫🇷FR-94.228.162.91-08, server: 94.228.162.91, port: 2060, type: ss, cipher: aes-128-gcm, password: W1C2PkLXX9Cy9FVC-LvJVA}
 - {name: 🇺🇸US-23.142.200.175-09, server: 23.142.200.175, port: 443, type: trojan, password: 27876_t7d7f4e3f, skip-cert-verify: true}
-- {name: 🇩🇪DE-130.61.237.76-10, server: de-frankfurt-oracle-b26cf5.ip1.shop, port: 45103, type: vmess, uuid: 501dbdc1-15df-479f-a2b8-7a58e42724f7, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /de2, tls: false, ws-headers: {Host: oracle-de-02.t3csyun.buzz}}
+- {name: 🇩🇪DE-130.61.232.87-10, server: de-frankfurt-oracle-b26cf5.ip1.shop, port: 45103, type: vmess, uuid: 501dbdc1-15df-479f-a2b8-7a58e42724f7, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /de2, tls: false, ws-headers: {Host: oracle-de-02.t3csyun.buzz}}
 - {name: 🇵🇱PL-51.77.53.200-11, server: 51.77.53.200, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
 - {name: 🇨🇳CN-36.151.195.48-12, server: 36.151.195.48, port: 20344, type: trojan, password: TNDSJfNv, skip-cert-verify: true}
 - {name: 🇵🇱PL-51.77.53.200-13, server: 51.77.53.200, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
