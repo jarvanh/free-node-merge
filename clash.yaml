@@ -13,7 +13,7 @@ proxies:
 - {name: 🇬🇧GB-212.102.53.80-11, server: 212.102.53.80, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
 - {name: 🇸🇪SE-95.164.33.62-12, server: 95.164.33.62, port: 443, type: trojan, password: 0b1371aa-649d-41dc-9126-338c87936500, sni: sourceforge.net, ws-path: "h=%2Fwebsocket", skip-cert-verify: true}
 - {name: 🇵🇱PL-51.77.53.200-13, server: 51.77.53.200, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-- {name: 🏁RELAY-104.16.124.132-14, server: cfcdn1.sanfencdn9.com, port: 2095, type: vmess, uuid: e83f27c4-b1cb-4311-907c-ea16d32348e1, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /video/qYZue4zaWS, tls: false, ws-headers: {Host: us82pRzxDMb.fzbqfrse.xyz}}
+- {name: 🏁RELAY-104.19.246.134-14, server: cfcdn1.sanfencdn9.com, port: 2095, type: vmess, uuid: e83f27c4-b1cb-4311-907c-ea16d32348e1, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /video/qYZue4zaWS, tls: false, ws-headers: {Host: us82pRzxDMb.fzbqfrse.xyz}}
 - {name: 🇳🇱NL-103.229.81.118-15, server: 103.229.81.118, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1YPQ1ZimzQp2fi4IpnAH5i}
 - {name: 🇺🇸US-205.134.180.139-16, server: 205.134.180.139, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: lWaGPVFjmnag}
 - {name: 🇨🇳CN-183.240.179.207-17, server: 183.240.179.207, port: 30013, type: vmess, uuid: 5bd5899a-4b78-4d75-8570-4d21b43422c4, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 183.240.179.207}}
