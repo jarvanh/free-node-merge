@@ -1,36 +1,40 @@
 proxies:
-- {name: 🇺🇸US-104.131.75.47-00, server: 104.131.75.47, port: 27880, type: vmess, uuid: acab06f2-d134-4989-9bf6-7b868b0b4aba, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 104.131.75.47}}
-- {name: 🏁RELAY-185.146.173.29-01, server: 185.146.173.29, port: 443, type: trojan, password: f91f38bb-72d5-4f3e-8311-1788986293f5, sni: iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir, skip-cert-verify: true}
-- {name: 🇺🇸US-38.114.114.207-02, server: 38.114.114.207, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-- {name: 🇺🇸US-38.114.114.207-03, server: 38.114.114.207, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-- {name: 🇵🇱PL-51.77.53.200-04, server: 51.77.53.200, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-- {name: 🇺🇸US-38.114.114.207-05, server: 38.114.114.207, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: 🇵🇱PL-51.77.53.200-06, server: 51.77.53.200, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-- {name: 🇺🇸US-38.114.114.207-07, server: 38.114.114.207, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-- {name: 🇵🇱PL-51.77.53.200-08, server: 51.77.53.200, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-- {name: 🇵🇱PL-51.77.53.200-09, server: 51.77.53.200, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 🏁RELAY-104.21.20.148-10, server: 104.21.20.148, port: 2087, type: trojan, password: f85e2ad7-3e26-4589-b478-b0b15b9b5907, sni: us1.trojanvpn.de, skip-cert-verify: true}
-- {name: 🇵🇱PL-51.77.53.200-11, server: 51.77.53.200, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 🇺🇸US-38.114.114.207-12, server: 38.114.114.207, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-- {name: 🏁RELAY-104.16.61.8-13, server: 104.16.61.8, port: 2086, type: vmess, uuid: 441da342-ce90-441e-bff9-d2ceb55e68ca, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /ivideos.sbs/linkws, tls: false, ws-headers: {Host: ury-unit-c030ehei8.poget71138.workers.dev}}
-- {name: 🏁RELAY-104.16.60.8-14, server: 104.16.60.8, port: 2086, type: vmess, uuid: f584de15-2034-4170-a723-f48c2bae5e0f, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /afrhms16v.bestxray.buzz/linkws, tls: false, ws-headers: {Host: y-old-mode-9c0diab.wiriy73548.workers.dev}}
-- {name: 🏁RELAY-185.146.173.31-15, server: 185.146.173.31, port: 443, type: trojan, password: ItSjMC37sc, sni: sus.suski2025.ir, ws-path: "h=%2Fproxy%2Fgraphql", skip-cert-verify: true}
-- {name: 🇩🇪DE-3.76.60.159-16, server: 3.76.60.159, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
-- {name: 🇨🇦CA-35.182.12.150-17, server: 35.182.12.150, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
-- {name: 🇵🇱PL-51.77.53.200-18, server: 51.77.53.200, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-- {name: 🇨🇳CN-36.212.238.66-19, server: 4208.ens3.buzz, port: 12390, type: ss, cipher: aes-128-gcm, password: e06522ae-7517-4584-ac3c-6951df538092}
-- {name: 🏁RELAY-104.21.43.13-20, server: 104.21.43.13, port: 443, type: trojan, password: f91f38bb-72d5-4f3e-8311-1788986293f5, sni: iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir, skip-cert-verify: true}
-- {name: 🇺🇸US-142.171.172.207-21, server: 142.171.172.207, port: 23333, type: trojan, password: 450524c4-86ee-4a97-ac7f-888942039bcd, sni: test.com, skip-cert-verify: true}
-- {name: 🏁RELAY-172.67.215.180-22, server: 172.67.215.180, port: 443, type: trojan, password: f91f38bb-72d5-4f3e-8311-1788986293f5, sni: iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir, skip-cert-verify: true}
-- {name: 🇺🇸US-38.114.114.207-23, server: 38.114.114.207, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-- {name: 🏁RELAY-104.16.1.10-24, server: 104.16.1.10, port: 443, type: trojan, password: qj1Dz1CJmFQRhWr1SP80aA, sni: cdn-21.gsmxreality.com, skip-cert-verify: true}
-- {name: 🇺🇸US-23.26.133.154-25, server: 23.26.133.154, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 6zR3sBYJKITEneGjgvi7Vl}
-- {name: 🇺🇸US-38.114.114.207-26, server: 38.114.114.207, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-- {name: 🇷🇺RU-46.17.41.161-27, server: eedp257bubu2wefy2.lovebaipiao.net, port: 54321, type: vmess, uuid: ae840eaa-21a3-462c-8dc8-f5eded625799, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /iphone, tls: false, ws-headers: {Host: eedp257bubu2wefy2.lovebaipiao.net}}
-- {name: 🇵🇱PL-51.77.53.200-28, server: 51.77.53.200, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: 🇵🇱PL-51.77.53.200-29, server: 51.77.53.200, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-- {name: 🏁RELAY-104.19.38.28-30, server: 104.19.38.28, port: 8880, type: vmess, uuid: 028c8131-9e3e-4836-94ac-ea7f24d4d05a, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: 028c8131-9e3e-4836-94ac-ea7f24d4d05a-vm, tls: false, ws-headers: {Host: funk-england-indirect-gospel.trycloudflare.com}}
-- {name: 🇺🇸US-38.114.114.207-31, server: 38.114.114.207, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: 🇵🇱PL-51.77.53.200-32, server: 51.77.53.200, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-- {name: 🏁RELAY-172.67.66.177-33, server: cdnjs.com, port: 443, type: vmess, uuid: 6b880b07-e952-4c0b-b4a3-6c9ac4cf9d3f, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /QvtvPdDXXIlSdZMqnuxG, tls: true, ws-headers: {Host: hdfy1c3.iraniancpi.uk}}
-- {name: 🏁RELAY-104.16.60.8-34, server: speed.cloudflare.com, port: 80, type: vmess, uuid: 1052f24e-7b09-45eb-b0c5-d858eb124192, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /glweidf.cfd/linkws, tls: false, ws-headers: {Host: freevpn878.hamidimorteza680.workers.dev}}
+- {name: 🇵🇱PL-51.77.53.200-00, server: 51.77.53.200, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 🇮🇪IE-34.251.156.68-01, server: 34.251.156.68, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
+- {name: 🇵🇱PL-51.77.53.200-02, server: 51.77.53.200, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+- {name: 🏁RELAY-172.67.215.180-03, server: 172.67.215.180, port: 443, type: trojan, password: f91f38bb-72d5-4f3e-8311-1788986293f5, sni: iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir, skip-cert-verify: true}
+- {name: 🇵🇱PL-51.77.53.200-04, server: 51.77.53.200, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+- {name: 🇵🇱PL-51.77.53.200-05, server: 51.77.53.200, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+- {name: 🇵🇱PL-51.77.53.200-06, server: 51.77.53.200, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 🇺🇸US-172.233.146.107-07, server: 172.233.146.107, port: 23333, type: trojan, password: 450524c4-86ee-4a97-ac7f-888942039bcd, sni: test.com, skip-cert-verify: true}
+- {name: 🇳🇱NL-5.182.86.28-08, server: 5.182.86.28, port: 12307, type: vmess, uuid: 9ad4e318-03fc-4e3b-e0ab-d86d2017de71, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 5.182.86.28}}
+- {name: 🏁RELAY-104.21.72.61-09, server: 104.21.72.61, port: 8443, type: trojan, password: Jncm1NRGbZ, sni: frankfoortvip.followprovider.ir, skip-cert-verify: true}
+- {name: 🇨🇱CL-64.176.15.74-10, server: 64.176.15.74, port: 3389, type: vmess, uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7, alterId: 0, cipher: auto, skip-cert-verify: true, network: http, ws-path: /, tls: false, ws-headers: {Host: 64.176.15.74}}
+- {name: 🇵🇱PL-51.77.53.200-11, server: 51.77.53.200, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+- {name: 🏁RELAY-104.26.3.120-12, server: 104.26.3.120, port: 80, type: vmess, uuid: f94c274d-f9c5-4c47-a3f5-fa839d80bfb1, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /etc, tls: false, ws-headers: {Host: dl3.mrarsha.邁達安.iron.鐵面具.dog垃圾場狗.巴黎之下.suonycars.buzz.}}
+- {name: 🏁RELAY-185.146.173.29-13, server: 185.146.173.29, port: 443, type: trojan, password: f91f38bb-72d5-4f3e-8311-1788986293f5, sni: iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir, skip-cert-verify: true}
+- {name: 🏁RELAY-104.19.38.28-14, server: 104.19.38.28, port: 8880, type: vmess, uuid: 028c8131-9e3e-4836-94ac-ea7f24d4d05a, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: 028c8131-9e3e-4836-94ac-ea7f24d4d05a-vm, tls: false, ws-headers: {Host: funk-england-indirect-gospel.trycloudflare.com}}
+- {name: 🇵🇱PL-51.77.53.200-15, server: 51.77.53.200, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+- {name: 🇮🇪IE-54.154.236.98-16, server: 54.154.236.98, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
+- {name: 🇵🇱PL-51.77.53.200-17, server: 51.77.53.200, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+- {name: 🇳🇴NO-46.29.219.44-18, server: 46.29.219.44, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /path/191019072927, tls: true, ws-headers: {Host: 46.29.219.44}}
+- {name: 🇵🇱PL-51.77.53.200-19, server: 51.77.53.200, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+- {name: 🏁RELAY-172.67.175.243-20, server: 172.67.175.243, port: 8443, type: trojan, password: Jncm1NRGbZ, sni: frankfoortvip.followprovider.ir, skip-cert-verify: true}
+- {name: 🇩🇪DE-80.92.204.106-21, server: 80.92.204.106, port: 9015, type: ss, cipher: aes-256-cfb, password: ZpNDDKRu9MagNvaf}
+- {name: 🇷🇺RU-46.17.41.197-22, server: 46.17.41.197, port: 55983, type: vmess, uuid: 034449ce-f7ad-4a51-8044-d677e80b2613, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 46.17.41.197}}
+- {name: 🇺🇸US-184.170.241.194-23, server: 184.170.241.194, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks}
+- {name: 🇵🇱PL-51.77.53.200-24, server: 51.77.53.200, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+- {name: 🏁RELAY-104.21.43.13-25, server: 104.21.43.13, port: 443, type: trojan, password: f91f38bb-72d5-4f3e-8311-1788986293f5, sni: iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir, skip-cert-verify: true}
+- {name: 🇨🇦CA-15.157.124.7-26, server: 15.157.124.7, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
+- {name: 🏁RELAY-104.21.8.157-27, server: 104.21.8.157, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: s1c.v2.v001sss.xyz}}
+- {name: 🇩🇪DE-80.92.204.106-28, server: 80.92.204.106, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu}
+- {name: 🇵🇱PL-51.77.53.200-29, server: 51.77.53.200, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+- {name: 🇵🇱PL-51.77.53.200-30, server: 51.77.53.200, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+- {name: 🏁RELAY-104.16.1.10-31, server: 104.16.1.10, port: 443, type: trojan, password: qj1Dz1CJmFQRhWr1SP80aA, sni: cdn-21.gsmxreality.com, skip-cert-verify: true}
+- {name: 🇵🇱PL-51.77.53.200-32, server: 51.77.53.200, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+- {name: 🇨🇦CA-3.99.22.75-33, server: 3.99.22.75, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
+- {name: 🇵🇱PL-51.77.53.200-34, server: 51.77.53.200, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+- {name: 🇨🇳CN-223.113.54.160-35, server: 223.113.54.160, port: 23223, type: trojan, password: gkviEOYc, skip-cert-verify: true}
+- {name: 🇮🇷IR-188.212.96.59-36, server: 188.212.96.59, port: 1000, type: vmess, uuid: 7926eb47-8a42-45f8-abb4-cc4d756bf4c0, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 188.212.96.59}}
+- {name: 🇳🇱NL-172.233.51.128-37, server: 172.233.51.128, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: fLAIbz76BnOmJ6HNuK2qvm}
+- {name: 🇵🇱PL-51.77.53.200-38, server: 51.77.53.200, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
