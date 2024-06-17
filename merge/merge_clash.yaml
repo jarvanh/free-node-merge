@@ -24,7 +24,7 @@ proxies:
 - {name: 🇮🇪IE-3.248.51.161-22, server: 3.248.51.161, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
 - {name: 🇵🇱PL-51.77.53.200-23, server: 51.77.53.200, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
 - {name: 🇵🇱PL-51.77.53.200-24, server: 51.77.53.200, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: 🏁RELAY-172.67.204.84-25, server: zula.ir, port: 80, type: vmess, uuid: da62a137-3611-4dd7-8523-b5266afe6fe5, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: Uk2.vmess.site.}}
+- {name: 🏁RELAY-104.21.69.44-25, server: zula.ir, port: 80, type: vmess, uuid: da62a137-3611-4dd7-8523-b5266afe6fe5, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: Uk2.vmess.site.}}
 - {name: 🇵🇱PL-51.77.53.200-26, server: 51.77.53.200, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
 - {name: 🇵🇱PL-51.77.53.200-27, server: 51.77.53.200, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
 - {name: 🇺🇸US-38.114.114.207-28, server: 38.114.114.207, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
@@ -35,5 +35,5 @@ proxies:
 - {name: 🇵🇱PL-51.77.53.200-33, server: 51.77.53.200, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
 - {name: 🇺🇸US-205.134.180.139-34, server: 205.134.180.139, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: lWaGPVFjmnag}
 - {name: 🇵🇱PL-51.77.53.200-35, server: 51.77.53.200, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 🏁RELAY-104.26.4.57-36, server: russia.com, port: 8880, type: vmess, uuid: 56c6ef30-a930-4bcb-a159-85d9838fadae, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /api/v3/download.getFile, tls: false, ws-headers: {Host: sssub.v2.001.ssrsub.com}}
+- {name: 🏁RELAY-104.26.5.57-36, server: russia.com, port: 8880, type: vmess, uuid: 56c6ef30-a930-4bcb-a159-85d9838fadae, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /api/v3/download.getFile, tls: false, ws-headers: {Host: sssub.v2.001.ssrsub.com}}
 - {name: 🇵🇱PL-51.77.53.200-37, server: 51.77.53.200, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
