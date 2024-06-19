@@ -9,7 +9,7 @@ proxies:
 - {name: 🇵🇱PL-51.77.53.200-07, server: 51.77.53.200, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
 - {name: 🏁RELAY-104.21.8.157-08, server: 104.21.8.157, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: s1c.v2.v001sss.xyz}}
 - {name: 🇵🇱PL-51.77.53.200-09, server: 51.77.53.200, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-- {name: 🏁RELAY-172.67.71.122-10, server: russia.com, port: 8880, type: vmess, uuid: 56c6ef30-a930-4bcb-a159-85d9838fadae, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /api/v3/download.getFile, tls: false, ws-headers: {Host: sssub.v2.001.ssrsub.com}}
+- {name: 🏁RELAY-104.26.5.57-10, server: russia.com, port: 8880, type: vmess, uuid: 56c6ef30-a930-4bcb-a159-85d9838fadae, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /api/v3/download.getFile, tls: false, ws-headers: {Host: sssub.v2.001.ssrsub.com}}
 - {name: 🇩🇪DE-89.169.53.36-11, server: 89.169.53.36, port: 59985, type: vmess, uuid: d572d74e-427b-4525-9d0d-88608d1a4f19, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 89.169.53.36}}
 - {name: 🇺🇸US-205.134.180.139-12, server: 205.134.180.139, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: lWaGPVFjmnag}
 - {name: 🇵🇱PL-51.77.53.200-13, server: 51.77.53.200, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
@@ -24,9 +24,9 @@ proxies:
 - {name: 🇵🇱PL-51.77.53.200-22, server: 51.77.53.200, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
 - {name: 🏁RELAY-104.19.51.232-23, server: 104.19.51.232, port: 2086, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm, tls: false, ws-headers: {Host: ip002.dtku47.xyz}}
 - {name: 🇮🇪IE-54.76.69.126-24, server: 54.76.69.126, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
-- {name: 🏁RELAY-172.67.130.140-25, server: s1c.v2.v001sss.xyz, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: s1c.v2.v001sss.xyz}}
+- {name: 🏁RELAY-104.21.8.157-25, server: s1c.v2.v001sss.xyz, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: s1c.v2.v001sss.xyz}}
 - {name: 🇵🇱PL-51.77.53.200-26, server: 51.77.53.200, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
 - {name: 🇵🇱PL-51.77.53.200-27, server: 51.77.53.200, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 🏁RELAY-104.26.5.57-28, server: russia.com, port: 80, type: vmess, uuid: 56c6ef30-a930-4bcb-a159-85d9838fadae, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /api/v3/download.getFile, tls: false, ws-headers: {Host: sssub.v2.001.ssrsub.com}}
+- {name: 🏁RELAY-172.67.71.122-28, server: russia.com, port: 80, type: vmess, uuid: 56c6ef30-a930-4bcb-a159-85d9838fadae, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /api/v3/download.getFile, tls: false, ws-headers: {Host: sssub.v2.001.ssrsub.com}}
 - {name: 🏁RELAY-172.67.130.140-29, server: 172.67.130.140, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: s1c.v2.v001sss.xyz}}
 - {name: 🏁RELAY-104.16.148.244-30, server: fbi.gov, port: 2086, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm, tls: false, ws-headers: {Host: ip002.dtku47.xyz}}
