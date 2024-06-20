@@ -7,7 +7,7 @@ proxies:
 - {name: 🇵🇱PL-51.77.53.200-05, server: 51.77.53.200, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
 - {name: 🇵🇱PL-51.77.53.200-06, server: 51.77.53.200, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
 - {name: 🏁RELAY-104.16.1.10-07, server: 104.16.1.10, port: 443, type: trojan, password: qj1Dz1CJmFQRhWr1SP80aA, sni: cdn-21.gsmxreality.com, skip-cert-verify: true}
-- {name: 🏁RELAY-104.16.149.244-08, server: fbi.gov, port: 2086, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm, tls: false, ws-headers: {Host: ip002.dtku47.xyz}}
+- {name: 🏁RELAY-104.16.148.244-08, server: fbi.gov, port: 2086, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm, tls: false, ws-headers: {Host: ip002.dtku47.xyz}}
 - {name: 🇬🇧GB-212.102.53.78-09, server: 212.102.53.78, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
 - {name: 🇫🇮FI-65.109.226.6-10, server: tu.miraclestory.top, port: 2053, type: vmess, uuid: d862cdd6-3dd6-4adc-83ca-99bf0ce86bee, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/@V2RayyNGvpn", tls: false, ws-headers: {Host: divar.ir}}
 - {name: 🇩🇪DE-80.92.204.106-11, server: 80.92.204.106, port: 9031, type: ss, cipher: aes-256-cfb, password: BwcAUZk8hUFAkDGN}
