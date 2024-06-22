@@ -26,7 +26,7 @@ proxies:
 - {name: 🏁RELAY-104.19.48.248-24, server: cf3.ftclashcloud.site, port: 80, type: vmess, uuid: 67d2d4b7-a38e-4beb-8caf-ce50ff92420a, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: cf3.ftclashcloud.site}}
 - {name: 🇺🇸US-216.246.25.109-25, server: 216.246.25.109, port: 16899, type: ss, cipher: aes-128-gcm, password: Yc2CtrIz8L}
 - {name: 🏁RELAY-104.19.38.28-26, server: 104.19.38.28, port: 8080, type: vmess, uuid: ef8c954e-014f-4b36-8273-9b5086afab34, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 104.19.38.28}}
-- {name: 🏁RELAY-104.26.4.57-27, server: russia.com, port: 80, type: vmess, uuid: 56c6ef30-a930-4bcb-a159-85d9838fadae, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: russia.com}}
+- {name: 🏁RELAY-104.26.5.57-27, server: russia.com, port: 80, type: vmess, uuid: 56c6ef30-a930-4bcb-a159-85d9838fadae, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: russia.com}}
 - {name: 🏁RELAY-104.16.1.10-28, server: 104.16.1.10, port: 443, type: trojan, password: qj1Dz1CJmFQRhWr1SP80aA, sni: cdn-21.gsmxreality.com, skip-cert-verify: true}
 - {name: 🏁RELAY-104.19.38.40-29, server: cf4.ftclashcloud.site, port: 80, type: vmess, uuid: 67d2d4b7-a38e-4beb-8caf-ce50ff92420a, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: cf4.ftclashcloud.site}}
 - {name: 🇬🇧GB-212.102.53.195-30, server: 212.102.53.195, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
