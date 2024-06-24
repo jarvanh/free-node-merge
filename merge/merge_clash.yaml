@@ -13,7 +13,7 @@ proxies:
 - {name: 🇺🇸US-23.157.40.10-11, server: 23.157.40.10, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
 - {name: 🇺🇸US-23.157.40.53-12, server: 23.157.40.53, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
 - {name: 🇺🇸US-23.157.40.53-13, server: 23.157.40.53, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-- {name: 🏁RELAY-104.21.70.29-14, server: hdfy1sub1.achaemenidempireofpersia.uk, port: 443, type: vmess, uuid: 6b880b07-e952-4c0b-b4a3-6c9ac4cf9d3f, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: hdfy1sub1.achaemenidempireofpersia.uk}}
+- {name: 🏁RELAY-172.67.218.206-14, server: hdfy1sub1.achaemenidempireofpersia.uk, port: 443, type: vmess, uuid: 6b880b07-e952-4c0b-b4a3-6c9ac4cf9d3f, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: hdfy1sub1.achaemenidempireofpersia.uk}}
 - {name: 🇬🇧GB-78.141.226.231-15, server: 78.141.226.231, port: 6623, type: ss, cipher: 2022-blake3-aes-128-gcm, password: SYHgTiDohArC53JmwvmB3Q==}
 - {name: 🇺🇸US-23.157.40.53-16, server: 23.157.40.53, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
 - {name: 🇺🇸US-38.99.82.85-17, server: 38.99.82.85, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: ̈́m͒ߍM֡Tyۙҫ1͛P̎}
