@@ -1,6 +1,6 @@
 proxies:
 - {name: 🇨🇳CN-183.232.139.22-00, server: 183.232.139.22, port: 4027, type: trojan, password: RmdXQRXg, skip-cert-verify: true}
-- {name: 🏁RELAY-104.19.192.18-01, server: cfcdn1.sanfencdn9.com, port: 2082, type: vmess, uuid: cd0eb936-9e1e-4730-989e-be43e7fcaf3e, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: cfcdn1.sanfencdn9.com}}
+- {name: 🏁RELAY-104.16.9.30-01, server: cfcdn1.sanfencdn9.com, port: 2082, type: vmess, uuid: cd0eb936-9e1e-4730-989e-be43e7fcaf3e, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: cfcdn1.sanfencdn9.com}}
 - {name: 🏁RELAY-104.18.37.248-02, server: 104.18.37.248, port: 2052, type: vmess, uuid: 60bcbd52-0c88-4da3-aee2-cc1f9d5ca224, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 104.18.37.248}}
 - {name: 🇮🇪IE-52.169.50.64-03, server: 52.169.50.64, port: 16141, type: ss, cipher: chacha20-ietf-poly1305, password: jjxXMDnfbChUWPL1QM02fM}
 - {name: 🏁RELAY-104.19.47.16-04, server: 104.19.47.16, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 104.19.47.16}}
