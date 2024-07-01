@@ -1,6 +1,6 @@
 proxies:
 - {name: 🇨🇳CN-183.232.139.22-00, server: 183.232.139.22, port: 4027, type: trojan, password: RmdXQRXg, skip-cert-verify: true}
-- {name: 🏁RELAY-104.22.63.151-01, server: cfcdn1.sanfencdn9.com, port: 2082, type: vmess, uuid: cd0eb936-9e1e-4730-989e-be43e7fcaf3e, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: cfcdn1.sanfencdn9.com}}
+- {name: 🏁RELAY-104.19.192.18-01, server: cfcdn1.sanfencdn9.com, port: 2082, type: vmess, uuid: cd0eb936-9e1e-4730-989e-be43e7fcaf3e, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: cfcdn1.sanfencdn9.com}}
 - {name: 🏁RELAY-104.18.37.248-02, server: 104.18.37.248, port: 2052, type: vmess, uuid: 60bcbd52-0c88-4da3-aee2-cc1f9d5ca224, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 104.18.37.248}}
 - {name: 🇮🇪IE-52.169.50.64-03, server: 52.169.50.64, port: 16141, type: ss, cipher: chacha20-ietf-poly1305, password: jjxXMDnfbChUWPL1QM02fM}
 - {name: 🏁RELAY-104.19.47.16-04, server: 104.19.47.16, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 104.19.47.16}}
@@ -14,6 +14,6 @@ proxies:
 - {name: 🏁RELAY-172.67.176.206-12, server: 172.67.176.206, port: 2053, type: trojan, password: ZJU29smXwp, sni: damn-mci-again-3.danesh-bonyan.Store, skip-cert-verify: true}
 - {name: 🇨🇳CN-183.240.235.162-13, server: 183.240.235.162, port: 54882, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 183.240.235.162}}
 - {name: 🏁RELAY-104.19.57.4-14, server: 104.19.57.4, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 104.19.57.4}}
-- {name: 🏁RELAY-104.26.4.57-15, server: russia.com, port: 8080, type: vmess, uuid: b7c56170-edb4-4c4a-bb64-ed5ef40b8739, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: russia.com}}
+- {name: 🏁RELAY-172.67.71.122-15, server: russia.com, port: 8080, type: vmess, uuid: b7c56170-edb4-4c4a-bb64-ed5ef40b8739, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: russia.com}}
 - {name: 🏁RELAY-172.67.130.140-16, server: 172.67.130.140, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 172.67.130.140}}
 - {name: 🏁RELAY-172.64.175.213-17, server: 172.64.175.213, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 172.64.175.213}}
